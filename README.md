@@ -1,5 +1,6 @@
-# Task1 mysql
-
+# `Task1 mysql`
+![This is an image](https://img.shields.io/badge/TSQL-10.4%25-orange) 
+![This is an image](https://img.shields.io/badge/C%23-89.6%25-darkgreen)  
 **Task1:** Була потреба створити Windows-програму, яка є клієнтом до СУБД “MySQL”.
 
 Ми маємо 2 таблиці в СУБД "MySQL" (MSSQL), які містять в собі дані певних відомих філософів. 1-ша таблиця - яскраві представники певних напрямів філософії, 2-га таблиця - безпосередньо самі напрями філософії.
